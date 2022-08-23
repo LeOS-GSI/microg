@@ -1,1 +1,1 @@
-This is a community supported repo to support integration of [microG](https://microg.org/) with RattlesnakeOS.
+This is a community supported repo to support integration of [microG](https://microg.org/) with LeOS.
